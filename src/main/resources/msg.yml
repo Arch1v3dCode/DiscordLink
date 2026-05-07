@@ -1,0 +1,13 @@
+messages:
+  already-linked: "&cYou have already linked your Discord account!"
+  link-success: "&aThanks for linking!"
+  invalid-code: "&cThat code is invalid or has expired. Please generate a new one in Discord."
+  no-permission: "&cYou do not have permission to use this command."
+  usage: "&cUsage: /link <code>"
+  full-inventory: "&cYour inventory is full! Please make some room and contact an admin."
+  code-generated: "Link Code: {code}"
+  already-linked-discord: "Your Minecraft account is already linked!"
+  link-embed-title: "Account Linking"
+  link-embed-description: "Use the code below in-game with `/link <code>`\n\nThis code expires in **{expire}** minutes."
+  link-embed-footer: "Codes are single-use and expire after the configured time."
+  channel-only: "Please only use bot commands in this channel."

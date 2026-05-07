@@ -1,0 +1,20 @@
+name: DiscordLink
+version: 1.0.0
+main: dev.discordlink.DiscordLink
+api-version: '1.21'
+description: Links Discord accounts to Minecraft accounts via a code system.
+author: DiscordLink
+
+commands:
+  link:
+    description: Link your Discord account to your Minecraft account.
+    usage: /link <code>
+    permission: discordlink.use
+
+permissions:
+  discordlink.use:
+    description: Allows a player to use /link
+    default: true
+  discordlink.admin:
+    description: Allows access to admin commands
+    default: op
