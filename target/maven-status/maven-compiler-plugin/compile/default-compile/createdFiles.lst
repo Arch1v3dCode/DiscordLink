@@ -1,8 +1,0 @@
-dev\discordlink\managers\CodeManager.class
-dev\discordlink\DiscordLink.class
-dev\discordlink\managers\MessageManager.class
-dev\discordlink\managers\LinkManager.class
-dev\discordlink\commands\LinkCommand$1.class
-dev\discordlink\discord\DiscordBot.class
-dev\discordlink\commands\LinkCommand.class
-dev\discordlink\managers\CodeManager$CodeEntry.class
