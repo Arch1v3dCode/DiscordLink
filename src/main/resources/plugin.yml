@@ -18,3 +18,4 @@ permissions:
   discordlink.admin:
     description: Allows access to admin commands
     default: op
+    
